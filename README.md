@@ -4,7 +4,7 @@ This repository demonstrates the communication between microservices using Rabbi
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed:
+Before you begin, ensure you have the following technologies are installed:
 - Kubernetes
 - Docker
 
